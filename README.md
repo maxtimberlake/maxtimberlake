@@ -7,9 +7,8 @@ Welcome to my GitHub repository dedicated to cybersecurity projects! Here, you'l
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/maxtimberlake/sentinel_lab)
- 
-- <b>Compliance (.NET Desktop Applications)</b>
-  - [Contols and Compiance Audit](https://github.com/maxtimberlake/PLACE)
+- <b>Compliance</b>
+  - [Contols and Compiance Audit](https://github.com/maxtimberlake/client_facing_audit_output)
 - <b>Python</b>
   - [Creating A Python Algorithim](https://github.com/maxtimberlake/python)
 - <b>Linux</b>
