@@ -9,7 +9,7 @@ Welcome to my GitHub repository dedicated to cybersecurity projects! Here, you'l
   - [Windows EventLog: Creating a Honeypot on Microsoft Azure, Feeding Failed RDP Logins Source IP to full GeoData Conversion, And Mapping Based on Geolocation](https://github.com/maxtimberlake/sentinel_lab)
   <br/>
 - <b>Compliance (Reformatted to Safeguard Company/Client Privacy)</b>
-  - [Preliminary Contols and Compliance Audit Using NIST (XXX)](https://github.com/maxtimberlake/client_facing_audit_output)
+  - [Preliminary Controls and Compliance Audit Using NIST (XXX)](https://github.com/maxtimberlake/client_facing_audit_output)
   <br/>
 - <b>Python</b>
   - [Automated IP Management System: Allow List Optimization and Efficient Access Control By Creating And Using A Python Algorithim](https://github.com/maxtimberlake/python)
