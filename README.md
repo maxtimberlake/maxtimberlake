@@ -6,17 +6,23 @@ Welcome to my GitHub repository dedicated to cybersecurity projects! Here, you'l
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/maxtimberlake/sentinel_lab)
-- <b>Compliance</b>
-  - [Contols and Compiance Audit](https://github.com/maxtimberlake/client_facing_audit_output)
+  - [Windows EventLog: Creating a Honeypot on Microsoft Azure, Feeding Failed RDP Logins Source IP to full GeoData Conversion, And Mapping Based on Geolocation](https://github.com/maxtimberlake/sentinel_lab)
+  <br/>
+- <b>Compliance (Reformatted to Safeguard Company/Client Privacy)</b>
+  - [Preliminary Contols and Compliance Audit Using NIST (XXX)](https://github.com/maxtimberlake/client_facing_audit_output)
+  <br/>
 - <b>Python</b>
-  - [Creating A Python Algorithim](https://github.com/maxtimberlake/python)
+  - [Automated IP Management System: Allow List Optimization and Efficient Access Control By Creating And Using A Python Algorithim](https://github.com/maxtimberlake/python)
+  <br/>
 - <b>Linux</b>
-  - [Updating File permissions in Linux](https://github.com/maxtimberlake/linux_project)
+  - [Advanced Linux Permissions Management for Multi-User Research Project](https://github.com/maxtimberlake/linux_project)
+  <br/>
 - <b>IDS/IPS</b>
   - [Work In Progress](https://github.com/maxtimberlake/PLACE)
+  <br/>
 - <b>SQL</b>
-  - [Applying Filters to SQL Queries](https://github.com/maxtimberlake/sql_filter)
-- <b>Reports</b>
+  - [SQL Queries for Security and Employee Management](https://github.com/maxtimberlake/sql_filter)
+  <br/>
+- <b>Client Facing Reports (Reformatted to Safeguard Company/Client Privacy)</b>
   - [Incident Report](https://github.com/maxtimberlake/incident_report)
   - [Post-Breach Report](https://github.com/maxtimberlake/post_breach_report_client_facing)
