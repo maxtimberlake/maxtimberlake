@@ -14,6 +14,9 @@ Welcome to my GitHub repository dedicated to cybersecurity projects! Here, you'l
 - <b>Python</b>
   - [Automated IP Management System: Allow List Optimization and Efficient Access Control By Creating And Using A Python Algorithim](https://github.com/maxtimberlake/python)
   <br/>
+- <b>Vulnerability Management</b>
+  - [Multi-Platform Vulnerability Assessment with Nessus and Cloud Virtual Environments](https://github.com/maxtimberlake/vulnerability_home_lab)
+  <br/>
 - <b>Linux</b>
   - [Advanced Linux Permissions Management for Multi-User Research Project](https://github.com/maxtimberlake/linux_project)
   <br/>
